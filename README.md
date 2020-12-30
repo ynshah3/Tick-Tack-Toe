@@ -7,7 +7,7 @@ I have used the command line to ask the users for the coordinates of their moves
 
 ## Project Demo
 
-
+![Project-Demo](Project-Demo.gif)
 
 ## Importance
 
